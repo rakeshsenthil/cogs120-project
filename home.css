@@ -6,6 +6,28 @@
   flex-wrap: wrap;
 }
 
+.add {
+  height: 200px;
+  width: 200px;
+  /* margin: 50px 50px 50px 50px; */
+  /* margin: 10px 10px 10px 10px; */
+  /* margin: auto; */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  /* background-color: #555; */
+  /* flex: 0 50%; */
+  text-align: center;
+
+  /* Following line used for aligning options */
+  position: relative;
+}
+
+.add img {
+  margin-top: 30%;
+}
+
 .square {
   height: 200px;
   width: 200px;
