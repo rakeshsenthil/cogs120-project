@@ -28,6 +28,11 @@
   margin-top: 30%;
 }
 
+#addForm {
+  font-family: Helvetica;
+  /* display: none; */
+}
+
 .square {
   height: 200px;
   width: 200px;
